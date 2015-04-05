@@ -61,10 +61,10 @@ WSGI_APPLICATION = 'spacey.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'spacey',                      
-        'USER': 'bibby',
-        'PASSWORD': 'bibby',
-        'HOST': '127.0.0.1'
+        'NAME': 'd6cbjpkajua3cg',                      
+        'USER': 'zwxghtpkyxrtew',
+        'PASSWORD': 'Hm8UwsVSEbb2F8QYXLW9aPfwQl',
+        'HOST': 'ec2-54-163-235-165.compute-1.amazonaws.com'
     }
 }
 
